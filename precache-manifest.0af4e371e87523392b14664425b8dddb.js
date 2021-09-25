@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16d8f4fe46d5cfa8fec6b5c50ae60d1d",
+    "revision": "ff93e9ca302049224d0df4402ca4ecad",
     "url": "/hotel-urbano/index.html"
   },
   {
-    "revision": "77a14d7bc7eec84b1ac3",
+    "revision": "6e8d3ef03d86bf1b3d23",
     "url": "/hotel-urbano/static/css/main.1386f74e.chunk.css"
   },
   {
-    "revision": "1bed083edb38cd2a5cf2",
-    "url": "/hotel-urbano/static/js/2.3ae74c09.chunk.js"
+    "revision": "834458ccfd3a2720b084",
+    "url": "/hotel-urbano/static/js/2.da3e8d1f.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/hotel-urbano/static/js/2.3ae74c09.chunk.js.LICENSE.txt"
+    "url": "/hotel-urbano/static/js/2.da3e8d1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77a14d7bc7eec84b1ac3",
-    "url": "/hotel-urbano/static/js/main.e5f38b81.chunk.js"
+    "revision": "6e8d3ef03d86bf1b3d23",
+    "url": "/hotel-urbano/static/js/main.92d4b60b.chunk.js"
   },
   {
     "revision": "1eb500926c5e7f0e9c9d",
