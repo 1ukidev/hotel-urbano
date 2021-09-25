@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hotel-urbano/precache-manifest.affc001a3dcd6b906fa14c6d934c4307.js"
+  "/hotel-urbano/precache-manifest.24a06b8630dc7f73225b8e2adc10f1ec.js"
 );
 
 self.addEventListener('message', (event) => {
