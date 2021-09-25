@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hotel-urbano/static/css/main.aab163ca.chunk.css",
+    "main.js": "/hotel-urbano/static/js/main.d7420a5b.chunk.js",
+    "main.js.map": "/hotel-urbano/static/js/main.d7420a5b.chunk.js.map",
+    "runtime-main.js": "/hotel-urbano/static/js/runtime-main.7e34069c.js",
+    "runtime-main.js.map": "/hotel-urbano/static/js/runtime-main.7e34069c.js.map",
+    "static/js/2.2eaf95fe.chunk.js": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js",
+    "static/js/2.2eaf95fe.chunk.js.map": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js.map",
+    "index.html": "/hotel-urbano/index.html",
+    "precache-manifest.53bb43ef5126a39201c655ed9f6b966e.js": "/hotel-urbano/precache-manifest.53bb43ef5126a39201c655ed9f6b966e.js",
+    "service-worker.js": "/hotel-urbano/service-worker.js",
+    "static/css/main.aab163ca.chunk.css.map": "/hotel-urbano/static/css/main.aab163ca.chunk.css.map",
+    "static/js/2.2eaf95fe.chunk.js.LICENSE.txt": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/hotel-urbano/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/hotel-urbano/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/hotel-urbano/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/hotel-urbano/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/hotel-urbano/static/media/feature-tile-icon-04.fa9ba00b.svg",
+    "static/media/feature-tile-icon-05.svg": "/hotel-urbano/static/media/feature-tile-icon-05.6a177696.svg",
+    "static/media/features-split-image-01.jpg": "/hotel-urbano/static/media/features-split-image-01.38b95c37.jpg",
+    "static/media/features-split-image-02.jpg": "/hotel-urbano/static/media/features-split-image-02.66d0a3ff.jpg",
+    "static/media/features-split-image-03.jpg": "/hotel-urbano/static/media/features-split-image-03.1cfc3451.jpg",
+    "static/media/logo.svg": "/hotel-urbano/static/media/logo.589159cb.svg",
+    "static/media/video-placeholder.png": "/hotel-urbano/static/media/video-placeholder.213dbfd7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e34069c.js",
+    "static/js/2.2eaf95fe.chunk.js",
+    "static/css/main.aab163ca.chunk.css",
+    "static/js/main.d7420a5b.chunk.js"
+  ]
+}
