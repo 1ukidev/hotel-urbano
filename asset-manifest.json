@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hotel-urbano/static/css/main.aab163ca.chunk.css",
-    "main.js": "/hotel-urbano/static/js/main.f306a612.chunk.js",
-    "main.js.map": "/hotel-urbano/static/js/main.f306a612.chunk.js.map",
+    "main.js": "/hotel-urbano/static/js/main.f28a80e2.chunk.js",
+    "main.js.map": "/hotel-urbano/static/js/main.f28a80e2.chunk.js.map",
     "runtime-main.js": "/hotel-urbano/static/js/runtime-main.7e34069c.js",
     "runtime-main.js.map": "/hotel-urbano/static/js/runtime-main.7e34069c.js.map",
     "static/js/2.2eaf95fe.chunk.js": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js",
     "static/js/2.2eaf95fe.chunk.js.map": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js.map",
     "index.html": "/hotel-urbano/index.html",
-    "precache-manifest.24a06b8630dc7f73225b8e2adc10f1ec.js": "/hotel-urbano/precache-manifest.24a06b8630dc7f73225b8e2adc10f1ec.js",
+    "precache-manifest.2b4a81d4bc07851c63daccebc280c3db.js": "/hotel-urbano/precache-manifest.2b4a81d4bc07851c63daccebc280c3db.js",
     "service-worker.js": "/hotel-urbano/service-worker.js",
     "static/css/main.aab163ca.chunk.css.map": "/hotel-urbano/static/css/main.aab163ca.chunk.css.map",
     "static/js/2.2eaf95fe.chunk.js.LICENSE.txt": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.7e34069c.js",
     "static/js/2.2eaf95fe.chunk.js",
     "static/css/main.aab163ca.chunk.css",
-    "static/js/main.f306a612.chunk.js"
+    "static/js/main.f28a80e2.chunk.js"
   ]
 }
