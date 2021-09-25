@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff93e9ca302049224d0df4402ca4ecad",
+    "revision": "8d8ce940862a230ed2d54e42187aad90",
     "url": "/hotel-urbano/index.html"
   },
   {
-    "revision": "6e8d3ef03d86bf1b3d23",
-    "url": "/hotel-urbano/static/css/main.1386f74e.chunk.css"
+    "revision": "5b9333f70410d7901608",
+    "url": "/hotel-urbano/static/css/main.aab163ca.chunk.css"
   },
   {
-    "revision": "834458ccfd3a2720b084",
-    "url": "/hotel-urbano/static/js/2.da3e8d1f.chunk.js"
+    "revision": "0540ad976a9614bb2976",
+    "url": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/hotel-urbano/static/js/2.da3e8d1f.chunk.js.LICENSE.txt"
+    "url": "/hotel-urbano/static/js/2.2eaf95fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e8d3ef03d86bf1b3d23",
-    "url": "/hotel-urbano/static/js/main.92d4b60b.chunk.js"
+    "revision": "5b9333f70410d7901608",
+    "url": "/hotel-urbano/static/js/main.d7420a5b.chunk.js"
   },
   {
     "revision": "1eb500926c5e7f0e9c9d",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hotel-urbano/static/media/feature-tile-icon-05.6a177696.svg"
   },
   {
-    "revision": "fe4efea179cc860712dbd2c626193dd6",
-    "url": "/hotel-urbano/static/media/features-split-image-01.fe4efea1.jpg"
+    "revision": "38b95c379ecdb36af8a65cdae85c8a15",
+    "url": "/hotel-urbano/static/media/features-split-image-01.38b95c37.jpg"
   },
   {
-    "revision": "85214f00072d13f676e57aacb8a52d82",
-    "url": "/hotel-urbano/static/media/features-split-image-02.85214f00.jpg"
+    "revision": "66d0a3ffa456ffb62122c815f08495da",
+    "url": "/hotel-urbano/static/media/features-split-image-02.66d0a3ff.jpg"
   },
   {
-    "revision": "cf02f8d55b54bfdd9911ad596db4dbf2",
-    "url": "/hotel-urbano/static/media/features-split-image-03.cf02f8d5.jpg"
+    "revision": "1cfc34519d3c4cc630566ec3a20bdddb",
+    "url": "/hotel-urbano/static/media/features-split-image-03.1cfc3451.jpg"
   },
   {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hotel-urbano/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2810a88b1d6365b363caeabe678f1629",
-    "url": "/hotel-urbano/static/media/logo.2810a88b.svg"
+    "revision": "589159cb59aa9bcdfb3a4b27bd3b1414",
+    "url": "/hotel-urbano/static/media/logo.589159cb.svg"
   },
   {
     "revision": "213dbfd740fb1fcc34df3606bb078e15",
