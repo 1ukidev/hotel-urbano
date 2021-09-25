@@ -72,8 +72,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="#0">
                     Acomadações
                   </Button>
-                  <Button tag="a" color="dark" wideMobile href="#0">
-                    Destinos
+                  <Button tag="a" color="dark" wideMobile href="https://github.com/1ukidev/hotel-urbano">
+                    Ver no GitHub
                   </Button>
                 </ButtonGroup>
               </div>
