@@ -5,3 +5,5 @@
 
 # Hotel Urbano
 Página fictícia feita em React.
+
+Inspiração: https://github.com/cruip/open-react-template/
