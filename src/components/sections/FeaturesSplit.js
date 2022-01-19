@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   R$599  
                 </h3>
                 <p className="m-0">
-                  Pacote de viagem Maceio<br/>Segundo semestre 2022
+                  Pacote de viagem Maceió<br/>Segundo semestre 2022
                 </p>
               </div>
               <div className={
